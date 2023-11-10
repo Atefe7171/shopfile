@@ -1,0 +1,16 @@
+
+@font-face {
+    font-family: 'BYekan';
+    src:  url('public/ckeditor/Customfonts/BYekan.ttf') format('truetype'),
+    url('public/ckeditor/Customfonts/BYekan.eot?#iefix') format('embedded-opentype');
+
+
+}
+
+
+@font-face {
+
+    font-family: 'BZar';
+    src: url('public/ckeditor/Customfonts/BZar.ttf') format('truetype'), url('public/ckeditor/Customfonts/BZar.eot') format('embedded-opentype'),
+    url('public/ckeditor/Customfonts/yekan.ttf') format('truetype'), url('public/ckeditor/Customfonts/yekan.woff') format('woff');
+}
